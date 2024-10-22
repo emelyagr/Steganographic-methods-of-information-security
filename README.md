@@ -1,5 +1,5 @@
-<div style="text-align: center;">
-  <span><img src="https://github.com/emelyagr/Steganographic-methods-of-information-security/blob/main/Обложка%20книжного%20издания.%20Курс%20«Стеганографические%20методы%20защиты%20информации».png?raw=true"></span>
-</div>
+<span style="display: inline-block; width: 100%; text-align: center;">
+  <img src="https://github.com/emelyagr/Steganographic-methods-of-information-security/blob/main/Обложка%20книжного%20издания.%20Курс%20«Стеганографические%20методы%20защиты%20информации».png?raw=true">
+</span>
 <img src="https://github.com/emelyagr/Steganographic-methods-of-information-security/blob/main/Обложка%20книжного%20издания.%20Курс%20«Стеганографические%20методы%20защиты%20информации».png?raw=true">
 (С) Емельянов Григорий Андреевич. Все права защищены. Использование (копирование, сбор, обработка, хранение, распространение, предоставление и другие действия, и иное воспроизведение в какой бы то ни было форме) любых материалов, статей, книг, курсов, программных кодов, программ и всех содержащихся материалов (и информации) без полного указания автора и источников и/или разрешения автора запрещено.
