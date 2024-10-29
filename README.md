@@ -1,5 +1,5 @@
 <img src="https://github.com/emelyagr/Steganographic-methods-of-information-security/blob/main/Обложка%20книжного%20издания.%20Курс%20«Стеганографические%20методы%20защиты%20информации».png?raw=true">
-<br> Бумажные и электронные издания:</br> 
+<p> Бумажные и электронные издания:</p> 
 <br> Ridero: https://ridero.ru/books/kurs_steganograficheskie_metody_zashity_informacii/.</br> 
 <br> Ozon: https://www.ozon.ru/product/kurs-steganograficheskie-metody-zashchity-informatsii-1740838996/?__rr=1.</br> 
 <br> Wildberries: https://www.wildberries.ru/catalog/274467301/detail.aspx.</br> 
