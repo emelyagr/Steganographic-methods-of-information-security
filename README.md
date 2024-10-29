@@ -1,10 +1,10 @@
 <img src="https://github.com/emelyagr/Steganographic-methods-of-information-security/blob/main/Обложка%20книжного%20издания.%20Курс%20«Стеганографические%20методы%20защиты%20информации».png?raw=true">
-Бумажные и электронные издания:
-Ridero: https://ridero.ru/books/kurs_steganograficheskie_metody_zashity_informacii/.
-Ozon: https://www.ozon.ru/product/kurs-steganograficheskie-metody-zashchity-informatsii-1740838996/?__rr=1.
-Wildberries: https://www.wildberries.ru/catalog/274467301/detail.aspx.
+<br> Бумажные и электронные издания:</br> 
+<br> Ridero: https://ridero.ru/books/kurs_steganograficheskie_metody_zashity_informacii/.</br> 
+<br> Ozon: https://www.ozon.ru/product/kurs-steganograficheskie-metody-zashchity-informatsii-1740838996/?__rr=1.</br> 
+<br> Wildberries: https://www.wildberries.ru/catalog/274467301/detail.aspx.</br> 
 
-Только электронные издания:
+<br> Только электронные издания:</br> 
 Wildberries Цифровой: https://digital.wildberries.ru/offer/285489.
 Литрес: https://www.litres.ru/book/emelyanov-grigoriy-and/kurs-steganograficheskie-metody-zaschity-informacii-71243452/.
 Яндекс Книги (Bookmate): https://books.yandex.ru/books/GdAmCWsI.
