@@ -1,3 +1,4 @@
+<h1>Книжное издание</h1>
 <img src="https://github.com/emelyagr/Steganographic-methods-of-information-security/blob/main/Обложка%20книжного%20издания.%20Курс%20«Стеганографические%20методы%20защиты%20информации».png?raw=true">
 <p> Бумажные и электронные издания:</p> 
 <p> Ridero: https://ridero.ru/books/kurs_steganograficheskie_metody_zashity_informacii/.</p> 
