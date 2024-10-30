@@ -1,5 +1,7 @@
 <h1>Книжное издание</h1>
 <img src="https://github.com/emelyagr/Steganographic-methods-of-information-security/blob/main/Обложка%20книжного%20издания.%20Курс%20«Стеганографические%20методы%20защиты%20информации».png?raw=true">
+Просьба делать ссылки на издание в таком библиографическом виде: Курс «Стеганографические методы защиты информации» / Емельянов Григорий Андреевич. - [б.м.] : Издательские решения, 2024. - 184 с.
+ISBN 978-5-0064-7782-7
 <p> Бумажные и электронные издания:</p> 
 <p> Ridero: https://ridero.ru/books/kurs_steganograficheskie_metody_zashity_informacii/.</p> 
 <p> Ozon: https://www.ozon.ru/product/kurs-steganograficheskie-metody-zashchity-informatsii-1740838996/?__rr=1.</p> 
