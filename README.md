@@ -18,7 +18,7 @@
 <p> Wildberries: https://www.wildberries.ru/catalog/274467301/detail.aspx.</p> 
 
 <p> Только электронные издания:</p> 
-<p> Wildberries Цифровой: https://digital.wildberries.ru/offer/285489.<p> 
+<p> Wildberries Цифровой: https://digital.wildberries.ru/offer/363119.<p> 
 <p> Литрес: https://www.litres.ru/book/emelyanov-grigoriy-and/kurs-steganograficheskie-metody-zaschity-informacii-71243452/.</p> 
 <p> Яндекс Книги (Bookmate): https://books.yandex.ru/books/GdAmCWsI.</p> 
 <p> МТС Строки: https://stroki.mts.ru/book/kurs-steganograficheskiye-metody-zaschity-informatsii-281593.</p> 
