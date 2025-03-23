@@ -19,7 +19,7 @@
 <p> Яндекс Маркет: https://market.yandex.ru/product--kurs-steganograficheskie-metody-zashchity-informatsii/1064080175.</p> 
 
 <p> Только электронные издания:</p> 
-<p> Wildberries Цифровой: https://digital.wildberries.ru/offer/363119.<p> 
+<p> Wildberries Цифровой: https://digital.wildberries.ru/offer/448672.<p> 
 <p> Литрес: https://www.litres.ru/book/emelyanov-grigoriy-and/kurs-steganograficheskie-metody-zaschity-informacii-71243452/.</p> 
 <p> Яндекс Книги (Bookmate): https://books.yandex.ru/books/GdAmCWsI.</p> 
 <p> МТС Строки: https://stroki.mts.ru/book/kurs-steganograficheskiye-metody-zaschity-informatsii-281593.</p> 
