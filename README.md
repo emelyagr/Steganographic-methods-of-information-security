@@ -16,6 +16,7 @@
 <p> Ridero: https://ridero.ru/books/kurs_steganograficheskie_metody_zashity_informacii/.</p> 
 <p> Ozon: https://www.ozon.ru/product/kurs-steganograficheskie-metody-zashchity-informatsii-1740838996/?__rr=1.</p> 
 <p> Wildberries: https://www.wildberries.ru/catalog/274467301/detail.aspx.</p> 
+<p> Яндекс Маркет: https://market.yandex.ru/product--kurs-steganograficheskie-metody-zashchity-informatsii/1064080175.</p> 
 
 <p> Только электронные издания:</p> 
 <p> Wildberries Цифровой: https://digital.wildberries.ru/offer/363119.<p> 
