@@ -15,14 +15,16 @@
 <p>Библиографический вид электронного курса: 
 <br>Емельянов Г. А., Образовательный курс на платформе «Stepik» (2024): Стеганографические методы защиты информации [Электронный ресурс] / Stepik. – 2013–20nn. Электрон. дан. – Режим доступа: https://stepik.org/201836, свободный (дата обращения: nn.nn.nn).</p>
 
-<p> Бумажные и электронные издания:</p> 
-<p> Ridero: https://ridero.ru/books/kurs_steganograficheskie_metody_zashity_informacii/.</p> 
+<p> Бумажные издания:</p> 
+<p> Ridero (и электронное): https://ridero.ru/books/kurs_steganograficheskie_metody_zashity_informacii/.</p> 
 <p> Ozon: https://www.ozon.ru/product/kurs-steganograficheskie-metody-zashchity-informatsii-1740838996/?__rr=1.</p> 
 <p> Wildberries: https://www.wildberries.ru/catalog/274467301/detail.aspx.</p> 
 <p> Яндекс Маркет: https://market.yandex.ru/product--kurs-steganograficheskie-metody-zashchity-informatsii/1064080175.</p> 
 
 <p> Только электронные издания:</p> 
-<p> Wildberries Цифровой: https://digital.wildberries.ru/offer/448672.<p> 
+<p> Ozon: https://www.ozon.ru/product/kurs-steganograficheskie-metody-zashchity-informatsii-grigoriy-andreevich-emelyanov-1977522302.</p>
+<p> Wildberries Цифровой: https://digital.wildberries.ru/offer/448672.</p>
+<p> Яндекс Маркет: https://market.yandex.ru/card/kurs-steganograficheskiye-metody-zashchity-informatsii-tsifrovaya-kniga/103836621320.</p>
 <p> Литрес: https://www.litres.ru/book/emelyanov-grigoriy-and/kurs-steganograficheskie-metody-zaschity-informacii-71243452/.</p> 
 <p> Яндекс Книги (Bookmate): https://books.yandex.ru/books/GdAmCWsI.</p> 
 <p> МТС Строки: https://stroki.mts.ru/book/kurs-steganograficheskiye-metody-zaschity-informatsii-281593.</p> 
