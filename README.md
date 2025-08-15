@@ -1,5 +1,5 @@
 <h1>Книжное издание</h1>
-<img src="https://github.com/emelyagr/Steganographic-methods-of-information-security/blob/main/Обложка%20книжного%20издания.%20Курс%20«Стеганографические%20методы%20защиты%20информации».png?raw=true">
+<img src="https://github.com/emelyagr/Steganographic-methods-of-information-security/blob/main/Обложка%20книжного%20издания.%20Курс%20«Стеганографические%20методы%20защиты%20информации».png?raw=true" class="center" width="500" height="800">
 <p>Лицензия ООО "Издательские решения" (Ridero).
 <br>ISBN 978-5-0064-7782-7.
 <br>УДК 004.
